@@ -3,7 +3,7 @@
 > Esse projeto está em construção.
 
 <p align="center">
-<img src="https://github.com/andrepixel/microservice_spring/blob/main/nestandts.png" border="10"/>
+<img src="https://github.com/andrepixel/microservice_nestjs/blob/main/nestandts.png" border="10"/>
 </p>
 
 > Esse projeto visa um estudo profundo de Microservice usando NestJS com Typescript, usando Design Patterns, e melhoria continua.
@@ -11,7 +11,7 @@
 ### Arquitetura
 
 <p align="center">
-<img src="https://github.com/andrepixel/microservice_nestjs/blob/main/Diagram_project_microservice_nestjs.drawio.svg" border="10"/>
+<img src="https://github.com/andrepixel/microservice_nestjs/blob/main/Diagram_project_microservice_nestjs.drawio.png" border="10"/>
 </p>
 
 ### Problema
